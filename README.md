@@ -9,13 +9,6 @@
   <a href="http://instagram.com/shun4midi_en"> <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="twitter" width="40" height="40"/> </a>
 </p>
 
-## Table of Contents
-1. [Who is Shun?](#who-is-shun)
-2. [Languages](#languages)
-3. [Projects](#projects)
-4. [Favorite Quote](#favorite-quote)
-5. [Misc/Favorites](#miscfavorites)
-
 ## Who is Shun?
 I don't know either. Hm. Heard he sucks at programming and everything else he loves though. Oh, and he is a sophomore Computer Science student.
 
