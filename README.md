@@ -22,7 +22,7 @@ English and Japanese are okay! I also am fluent in Mandarin (Traditional Chinese
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. I may sometimes decide to toggle them to be public temporarily, but I still want to disconnect them from my main work as much as possible :)
  - I'm currently working on a <ins><b>Music Theory Tool aimed for Musical Composers</b></ins> (Part 1 of my big Shun4MIDI project) as someone who used to [compose music in high school](https://youtu.be/fNU0zx5wI3Q)
  - I am also supposed to be working on my <ins><b>personal website</b></ins> (Not my portfolio) but lack the interest in web dev to finish it as of right now
- - I'm also working on <ins><b>my own Discord bot Shun4miBot</b></ins> coded in D++ (A C++ library for Discord), and plan to make a bot (or a few) for Shun4MIDI too!
+ - I'm also working on <ins><b>my own Discord bot Shun4miBot</b></ins> coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and plan to make a bot (or a few) for Shun4MIDI too!
 
 ## Interests
 I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions and Group Cohomology? I just love math, not really any specific field within it :p
