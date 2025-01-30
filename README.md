@@ -1,12 +1,9 @@
 <h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
+<h2><b>Some very inacurate stats because of how little repositories I make public (I use C/C++ wayyyyyyy more than any other language)</b></h2>
 <p align="center">
-  <a href="mailto:shun4midx@gmail.com"> <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/> </a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
-  <a href="https://discordapp.com/users/1278670248517828650"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" alt="discord" width="40" height="40"/> </a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
-  <a href="http://x.com/shun4midi_en"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="twitter" width="40" height="40"/> </a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
-  <a href="http://instagram.com/shun4midi_en"> <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="twitter" width="40" height="40"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&theme=blueberry&layout=compact&border=#82aaff"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&theme=blueberry&layout=compact&border=#82aaff"/> </a>
 </p>
 
 ## Who is Shun?
@@ -31,3 +28,13 @@ As a habit, I mostly work on private repositories separate from the main reposit
 I love programming, algorithms, listening to music, composing music, and reading upon cool math. I used to be really obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions and Group Cohomology? I just love math, not really any specific field within it :p
 
 I want to spend more time dedicating my interest towards applied math in CS though! I love pure math but also love applied math, I just never spent enough time learning the latter!
+
+<p align="right">
+  <a href="mailto:shun4midx@gmail.com"> <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
+  <a href="https://discordapp.com/users/1278670248517828650"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" alt="discord" width="40" height="40"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
+  <a href="http://x.com/shun4midi_en"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="twitter" width="40" height="40"/> </a>
+  <a href="https://github.com/shun4midx"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
+  <a href="http://instagram.com/shun4midi_en"> <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="twitter" width="40" height="40"/> </a>
+</p>
