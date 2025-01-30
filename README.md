@@ -2,7 +2,6 @@
 <h2><b>Some very inacurate stats because of how little repositories I make public (I use C/C++ wayyyyyyy more than any other language)</b></h2>
 <p align="center">
   <a href="https://github.com/shun4midx"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&theme=blueberry&layout=compact&border_color=82aaff"/> </a>
-  <a href="https://github.com/shun4midx"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/> </a>
   <a href="https://github.com/shun4midx"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&theme=blueberry&layout=compact&border_color=82aaff"/> </a>
 </p>
 
