@@ -31,17 +31,3 @@ As a habit, I mostly work on private repositories separate from the main reposit
 I love programming, algorithms, listening to music, composing music, and reading upon cool math. I used to be really obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions and Group Cohomology? I just love math, not really any specific field within it :p
 
 I want to spend more time dedicating my interest towards applied math in CS though! I love pure math but also love applied math, I just never spent enough time learning the latter!
-
-## Favorite Quote
-#### `> "Yasashii Suisei wo Nazotte!"`
-
-I type that everywhere, but it is a combination of my two most favorite YOASOBI songs, "Yasashii Suisei" (Comet) and "Ano Yume wo Nazotte" (Tracing a Dream), and it means "Tracing a Gentle Comet". I guess, it just means, to never give up on your dreams and try to chase them even if they seem impossible to achieve. Afterall, that's the mindset that got me here today :)
-
-## Misc/Favorites
-- My favorite programming language is C++ :p
-- My favorite numbers are quarternions and aleph null, but my favorite real number is pi.
-- My favorite positive integer is [196883 because of the Group Theory monster](https://www.youtube.com/watch?v=mH0oCDa74tE).
-- My favorite natural number is 0 because I love to spite the mathematical community (I believe 0 is a natural number because younger Shun was too obsessed with Peano Axioms for me to not believe so XD).
-- My favorite color is blue/cyan, but my favorite color of clothing is black
-- My favorite color schemes are gradients from blue to green and blue to pink!
-- My favorite artists are YOASOBI and tuki, of course my favorite musical genre is J-Pop.
