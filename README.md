@@ -23,6 +23,13 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I am also supposed to be working on my [personal website](https://github.com/shun4midx/Private-shun4midx-website) (Not my portfolio) but lack the interest in web dev to finish it as of right now
  - I'm also working on [my own Discord bot Shun4miBot](https://github.com/shun4midx/Shun4miBot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and plan to make a bot (or a few) for Shun4MIDI too!
 
+<p align="center">
+  <a href="https://github.com/shun4midx/Shun4MIDI-Music-Theory-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Music-Theory-Tool&theme=blueberry&border_color=82aaff"></a>
+  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&theme=blueberry&border_color=82aaff"></a>
+  <a href="https://github.com/shun4midx/shun4midx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=shun4midx&theme=blueberry&border_color=82aaff"></a>
+  <a href="https://github.com/shun4midx/Private-shun4midx-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Private-shun4midx-website&theme=blueberry&border_color=82aaff"></a>
+</p>
+
 ## Interests
 I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions and Group Cohomology? I just love math, not really any specific field within it :p
 
