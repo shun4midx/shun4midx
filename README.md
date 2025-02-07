@@ -26,8 +26,8 @@ As a habit, I mostly work on private repositories separate from the main reposit
 <p align="center">
   <a href="https://github.com/shun4midx/Shun4MIDI-Music-Theory-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Music-Theory-Tool&theme=blueberry&border_color=82aaff"></a>
   <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&theme=blueberry&border_color=82aaff"></a>
-  <a href="https://github.com/shun4midx/shun4midx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=shun4midx&theme=blueberry&border_color=82aaff"></a>
   <a href="https://github.com/shun4midx/Private-shun4midx-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Private-shun4midx-website&theme=blueberry&border_color=82aaff"></a>
+  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&theme=blueberry&border_color=82aaff"></a>
 </p>
 
 ## Interests
