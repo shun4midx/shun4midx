@@ -1,8 +1,8 @@
 <h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
 <h2><b>Some very inacurate stats because of how few repositories I make public (I use C/C++ wayyyyyyy more than any other language)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&theme=blueberry&layout=compact&border_color=82aaff"/></a>
-  <a href="https://github.com/shun4midx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&theme=blueberry&layout=compact&border_color=82aaff"/></a>
+  <a href="https://github.com/shun4midx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"/></a>
+  <a href="https://github.com/shun4midx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"/></a>
 </p>
 
 ## Who is Shun?
@@ -24,10 +24,10 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I'm also working on [my own Discord bot Shun4miBot](https://github.com/shun4midx/Shun4miBot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and plan to make a bot (or a few) for Shun4MIDI too!
 
 <p align="center">
-  <a href="https://github.com/shun4midx/Shun4MIDI-Music-Theory-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Music-Theory-Tool&theme=blueberry&border_color=82aaff"></a>
-  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&theme=blueberry&border_color=82aaff"></a>
-  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&theme=blueberry&border_color=82aaff"></a>
-  <a href="https://github.com/shun4midx/Private-shun4midx-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Private-shun4midx-website&theme=blueberry&border_color=82aaff"></a>
+  <a href="https://github.com/shun4midx/Shun4MIDI-Music-Theory-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Music-Theory-Tool&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Private-shun4midx-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shun4midx&repo=Private-shun4midx-website&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
 </p>
 
 ## Interests
