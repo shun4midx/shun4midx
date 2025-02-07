@@ -1,8 +1,8 @@
 <h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
 <h2><b>Some very inacurate stats because of how few repositories I make public (I use C/C++ wayyyyyyy more than any other language)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"/></a>
-  <a href="https://github.com/shun4midx"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"/></a>
+  <a href="https://github.com/shun4midx"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&custom_title=Shun's%20Language%20Stats"/></a>
+  <a href="https://github.com/shun4midx"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=ja&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&custom_title=翔海が最もよく使う言語"/></a>
 </p>
 
 ## Who is Shun?
