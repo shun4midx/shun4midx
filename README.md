@@ -1,4 +1,7 @@
 <h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
+
+## NOTICE: I will be temporarily stopping progress on my personal projects until the semester is over in June to focus on my studies.
+
 <h2><b>Some random stats I guess</b></h2>
 <p align="center">
   <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&locale=en&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&custom_title=Shun's%20Language%20Stats&exclude_repo=shun-github-readme-stats,Private-shun4midx-website"/></a>
