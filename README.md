@@ -27,12 +27,10 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I'm also working on [my own Discord bot Shun4miBot](https://github.com/shun4midx/Shun4miBot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and plan to make a bot (or a few) for Shun4MIDI too!
 
 <p align="center">
-  <a href="https://github.com/shun4midx/Shun4MIDI-Music-Theory-Tool"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Music-Theory-Tool&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
-  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
   <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
-  <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
-  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
-  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&description_lines_count=2"></a>
+  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&description_lines_count=2"></a>
+  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&description_lines_count=2"></a>
 </p>
 
 ## Interests
