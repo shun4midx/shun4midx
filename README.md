@@ -34,7 +34,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
 </p>
 
 ## Interests
-I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions and Group Cohomology? I just love math, not really any specific field within it :p
+I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions? I just love math, not really any specific field within it :p
 
 I want to spend more time dedicating my interest towards applied math in CS though! I love pure math but also love applied math, I just never spent enough time learning the latter!
 
