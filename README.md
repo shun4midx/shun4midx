@@ -4,8 +4,8 @@
 
 <h2><b>Some random stats I guess (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for actual coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&locale=en&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI"/></a>
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&locale=ja&title_color=ff73e8&bg_color=110e45&border_color=ff73e8&text_color=94b1ff&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&locale=en&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,FAI-Final"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&locale=ja&title_color=ff73e8&bg_color=110e45&border_color=ff73e8&text_color=94b1ff&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,FAI-Final"/></a>
 </p>
 
 ## Who is Shun?
