@@ -1,7 +1,5 @@
 <h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
 
-## NOTICE: I will be temporarily stopping progress on my personal projects until the semester is over in June to focus on my studies.
-
 <h2><b>Some random stats I guess (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for actual coding)</b></h2>
 <p align="center">
   <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&locale=en&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,FAI-Final"/></a>
@@ -28,9 +26,9 @@ As a habit, I mostly work on private repositories separate from the main reposit
 
 <p align="center">
   <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
-  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&description_lines_count=2"></a>
-  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Shun4MIDI-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Bot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
   <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
+  <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&border_color=ff73e8&title_color=ff73e8&bg_color=110e45&text_color=94b1ff"></a>
 </p>
 
 ## Interests
