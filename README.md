@@ -7,7 +7,7 @@
 </p>
 
 ## Who is Shun?
-I don't know either. Hm. Heard he sucks at programming and everything else he loves though. Oh, and he is a sophomore Computer Science student.
+I don't know either. Hm. Heard he sucks at programming and everything else he loves though. Oh, and he is a junior Computer Science student.
 
 You may see me as @shun4midx online, I usually use "shun4mi" or "shun4" for most of my work as a sort of trademark.
 
