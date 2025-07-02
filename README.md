@@ -7,9 +7,9 @@
 </p>
 
 ## Who is Shun?
-I don't know either. Hm. Heard he sucks at programming and everything else he loves though. Oh, and he is a junior Computer Science student.
+I don't know either. Hm. Heard he likes C++ too much though. Oh, and he is a junior Computer Science student.
 
-You may see me as @shun4midx online, I usually use "shun4mi" or "shun4" for most of my work as a sort of trademark.
+You may usually see me as @shun4midx online, I usually use "shun4mi" or "shun4" for most of my work as a sort of trademark.
 
 Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don't call me "Shun for Midex"!
 
@@ -33,8 +33,6 @@ As a habit, I mostly work on private repositories separate from the main reposit
 
 ## Interests
 I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions? I just love math, not really any specific field within it :p
-
-I want to spend more time dedicating my interest towards applied math in CS though! I love pure math but also love applied math, I just never spent enough time learning the latter!
 
 <p align="right">
   <a href="mailto:shun4midx@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/></a>
