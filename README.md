@@ -25,7 +25,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I'm also working on [my own Discord bot Shun4miBot](https://github.com/shun4midx/Shun4miBot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and a bot (or a few) for [Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) too!
 
 <p align="center">
-  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&border_color=00d4b2&title_color=00d4b2&bg_color=000000&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Shun4MIDI-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/Shun4miBot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miBot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=2"></a>
