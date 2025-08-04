@@ -26,9 +26,9 @@ As a habit, I mostly work on private repositories separate from the main reposit
 
 <p align="center">
   <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=2"></a>
+  <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Shun4MIDI-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4MIDI-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=2"></a>
 </p>
 
 ## Interests
