@@ -2,8 +2,8 @@
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI"/></a>
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI"/></a>
 </p>
 
 ## Who is Shun?
@@ -26,7 +26,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
 
 <p align="center">
   <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Shun4miShu"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miShu&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
 </p>
