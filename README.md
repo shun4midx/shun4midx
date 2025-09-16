@@ -55,8 +55,8 @@ I only offered Math notes and did NOT offer any Computer Science notes.
 
 ### Spring 2025 (Math Notes)
 <p align="center">
-  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
 </p>
 
 ### Fall 2024 (Math Notes)
