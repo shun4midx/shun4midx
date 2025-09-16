@@ -20,9 +20,9 @@ English and Japanese are okay! I also am fluent in Mandarin (Traditional Chinese
 
 ## Projects
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. :)
- - Currently I'm mainly working on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project, which modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
+ - I'm mainly working on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project, which modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
  - I'm also working on a Music Theory Tool aimed for Musical Composers (Part of my Shun4MIDI project) as someone who used to [compose music in high school](https://youtu.be/fNU0zx5wI3Q)
- - I'm also working on [my own Discord bot Shun4miBot](https://github.com/shun4midx/Shun4miBot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/), and a bot (or a few) for [Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) too!
+ - I'm also working on [a Discord bot for Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/)!
 
 <p align="center">
   <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
@@ -31,8 +31,35 @@ As a habit, I mostly work on private repositories separate from the main reposit
   <a href="https://github.com/shun4midx/Shun4miShu"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miShu&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
 </p>
 
+## Public GitHub Notes
+Here you can find my (mainly handwritten on GoodNotes) public notes I offer during **Fall 2025**, which are fully in English. Click on the repository that you find useful to access the notes!
+
+Unless stated otherwise in the repository's README, my Computer Science notes should be updated on a roughly weekly or once every two weeks basis. My Math notes are updated on a twice a week basis.
+
+### Computer Science Notes
+<p align="center">
+  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
+</p>
+
+### Math Notes
+<p align="center">
+  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/Geometry"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Geometry&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+</p>
+
+## Past Public GitHub Notes
+Here are my public notes I offered during **Spring 2025**. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature.
+
+I only offered Math notes and did NOT offer any Computer Science notes.
+
+<p align="center">
+  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+</p>
+
 ## Interests
-I love programming, algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!). I used to be **really** obsessed over Differential Geometry, but now I find that I gravitate more towards Elliptic Functions? I just love math, not really any specific field within it :p
+I love algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!).
 
 <p align="right">
   <a href="mailto:shun4midx@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/></a>
