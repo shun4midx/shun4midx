@@ -49,13 +49,19 @@ Unless stated otherwise in the repository's README, my Computer Science notes sh
 </p>
 
 ## Past Public GitHub Notes
-Here are my public notes I offered during **Spring 2025**. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature.
+Here are my public notes I offered during **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature.
 
 I only offered Math notes and did NOT offer any Computer Science notes.
 
+### Spring 2025 (Math Notes)
 <p align="center">
   <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+</p>
+
+### Fall 2024 (Math Notes)
+<p align="center">
+  <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
 </p>
 
 ## Interests
