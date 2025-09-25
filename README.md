@@ -39,7 +39,7 @@ Unless stated otherwise in the repository's README, my Computer Science notes sh
 ### Computer Science Notes
 <p align="center">
   <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&bg_color=000000&title_color=00d4b2&border_color=00d4b2&text_color=00d4b2"></a>
 </p>
 
 ### Math Notes
