@@ -37,12 +37,14 @@ Here you can find my (mainly handwritten on GoodNotes) public notes I offer duri
 Unless stated otherwise in the repository's README, my Computer Science notes should be updated on a roughly weekly or once every two weeks basis. My Math notes are updated on a twice a week basis.
 
 ### Computer Science Notes
+The notes I offer this semester are for Systems Programming and Computer Networks respectively.
 <p align="center">
   <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&bg_color=000000&title_color=00d4b2&border_color=00d4b2&text_color=00d4b2"></a>
 </p>
 
 ### Math Notes
+The notes I offer this semester are for Complex Analysis and Geometry respectively.
 <p align="center">
   <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
   <a href="https://github.com/shun4midx/Geometry"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Geometry&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
