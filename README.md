@@ -32,7 +32,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
 </p>
 
 ## Public GitHub Notes
-Here you can find my (mainly handwritten on GoodNotes) public notes I offer during **Fall 2025**, which are fully in English. Click on the repository that you find useful to access the notes!
+Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Fall 2025**, which are fully in English. Click on the repository that you find useful to access the notes!
 
 Unless stated otherwise in the repository's README, my Computer Science notes should be updated on a roughly weekly or once every two weeks basis. My Math notes are updated on a twice a week basis.
 
