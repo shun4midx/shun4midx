@@ -2,8 +2,8 @@
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&bg_color=000000&border_color=00d4b2&text_color=00d4b2&title_color=00d4b2&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&bg_color=000000&border_color=00d4b2&text_color=00d4b2&title_color=00d4b2&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
 </p>
 
 ## Who is Shun?
@@ -25,10 +25,10 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I'm also working on [a Discord bot for Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/)!
 
 <p align="center">
-  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2&description_lines_count=3"></a>
-  <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2&description_lines_count=3"></a>
-  <a href="https://github.com/shun4midx/Shun4miShu"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miShu&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/Shun4miShu"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miShu&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
 </p>
 
 ## Public GitHub Notes
@@ -39,15 +39,15 @@ Unless stated otherwise in the repository's README, my Computer Science notes sh
 ### Computer Science Notes
 The notes I offer this semester are for Systems Programming and Computer Networks respectively.
 <p align="center">
-  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&bg_color=000000&title_color=00d4b2&border_color=00d4b2&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
 </p>
 
 ### Math Notes
 The notes I offer this semester are for Complex Analysis and Geometry respectively.
 <p align="center">
-  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=000000&title_color=00d4b2&border_color=00d4b2&text_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/Geometry"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Geometry&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/Geometry"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Geometry&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
 </p>
 
 ## Past Public GitHub Notes
@@ -57,13 +57,13 @@ I only offered Math notes and did NOT offer any Computer Science notes.
 
 ### Spring 2025 (Math Notes)
 <p align="center">
-  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
-  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&title_color=00d4b2&bg_color=000000&border_color=00d4b2&text_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
 </p>
 
 ### Fall 2024 (Math Notes)
 <p align="center">
-  <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&title_color=00d4b2&bg_color=000000&text_color=00d4b2&border_color=00d4b2"></a>
+  <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
 </p>
 
 ## Interests
