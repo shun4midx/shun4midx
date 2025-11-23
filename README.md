@@ -1,13 +1,15 @@
-<h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
+<h1 align="center"><b> 🌠 Hi, I'm Skylen/翔海! 🌠 </b></h1>
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&custom_title=Skylen's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
   <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site"/></a>
 </p>
 
-## Who is Shun?
+## Who is Skylen?
 I don't know either. Hm. Heard he likes C++ too much and always wears his black headphones though. Oh, and he is a junior Computer Science student.
+
+My English name is... hah. Shun is what I went by for a long time, but Skylen feels nice too. I'm too unbothered to change anything Shun-related since I make a lot of puns with that and have it as some sort of a trademark. Skylen isn't as trademark worthy.
 
 You may usually see me as @shun4midx online, I usually use "shun4mi" or "shun4" for most of my work as a sort of trademark.
 
