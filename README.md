@@ -40,6 +40,7 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
 
 <details>
   <summary><b>Fall 2025 (Computer Science Notes)</b></summary>
+  <br>
   <p align="center">
     <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
   </p>
@@ -47,6 +48,7 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
 
 <details>
   <summary><b>Fall 2025 (Math Notes)</b></summary>
+  <br>
   <p align="center">
     <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
   </p>
@@ -54,6 +56,7 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
 
 <details>
   <summary><b>Spring 2025 (Math Notes)</b></summary>
+  <br>
   <p align="center">
     <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
     <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=2"></a>
@@ -62,6 +65,7 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
 
 <details>
   <summary><b>Fall 2024 (Math Notes)</b></summary>
+  <br>
   <p align="center">
     <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
   </p>
