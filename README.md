@@ -32,28 +32,20 @@ As a habit, I mostly work on private repositories separate from the main reposit
 </p>
 
 ## Public GitHub Notes
-Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Fall 2025**, which are fully in English. Click on the repository that you find useful to access the notes!
-
-Unless stated otherwise in the repository's README, my Computer Science notes should be updated on a roughly weekly or once every two weeks basis. My Math notes are updated on a twice a week basis.
-
-### Computer Science Notes
-The notes I offer this semester are for Systems Programming and Computer Networks respectively.
-<p align="center">
-  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-  <a href="https://github.com/shun4midx/CompNet-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompNet-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-</p>
-
-### Math Notes
-The notes I offer this semester are for Complex Analysis and Geometry respectively.
-<p align="center">
-  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-  <a href="https://github.com/shun4midx/Geometry"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Geometry&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-</p>
+Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes! (When it's available next year...)
 
 ## Past Public GitHub Notes
-Here are my public notes I offered during **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature.
+Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
 
-I only offered Math notes and did NOT offer any Computer Science notes.
+### Fall 2025 (Computer Science Notes)
+<p align="center">
+  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+</p>
+
+### Fall 2025 (Math Notes)
+<p align="center">
+  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+</p>
 
 ### Spring 2025 (Math Notes)
 <p align="center">
