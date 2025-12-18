@@ -38,26 +38,34 @@ Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed 
 ## Past Public GitHub Notes
 Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
 
-### Fall 2025 (Computer Science Notes)
-<p align="center">
-  <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-</p>
+<details>
+  <summary><b>Fall 2025 (Computer Science Notes)</b></summary>
+  <p align="center">
+    <a href="https://github.com/shun4midx/SP-Notes"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=SP-Notes&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  </p>
+</details>
 
-### Fall 2025 (Math Notes)
-<p align="center">
-  <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-</p>
+<details>
+  <summary><b>Fall 2025 (Math Notes)</b></summary>
+  <p align="center">
+    <a href="https://github.com/shun4midx/CompAna"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=CompAna&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  </p>
+</details>
 
-### Spring 2025 (Math Notes)
-<p align="center">
-  <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-  <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=2"></a>
-</p>
+<details>
+  <summary><b>Spring 2025 (Math Notes)</b></summary>
+  <p align="center">
+    <a href="https://github.com/shun4midx/Algebra-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+    <a href="https://github.com/shun4midx/Analysis-II"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Analysis-II&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=2"></a>
+  </p>
+</details>
 
-### Fall 2024 (Math Notes)
-<p align="center">
-  <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
-</p>
+<details>
+  <summary><b>Fall 2024 (Math Notes)</b></summary>
+  <p align="center">
+    <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  </p>
+</details>
 
 ## Interests
 I love algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!).
