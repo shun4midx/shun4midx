@@ -21,6 +21,7 @@ English and Japanese are okay! I also am fluent in Mandarin (Traditional Chinese
 ## Projects
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. :)
  - I'm mainly working on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project, which modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
+ - I'm also working on [TextInTeX](https://github.com/shun4midx/TextInTeX), a mini project library that turns text-based LaTeX and natural notation into copy-pasteable natural looking mathematical text. I plan to create a Discord bot and web version for it too in the future.
  - I'm also working on a Music Theory Tool aimed for Musical Composers (Part of my Shun4MIDI project) as someone who used to [compose music in high school](https://youtu.be/fNU0zx5wI3Q)
  - I'm also working on [a Discord bot for Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/)!
 
