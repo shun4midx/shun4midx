@@ -30,6 +30,8 @@ As a habit, I mostly work on private repositories separate from the main reposit
   <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/FQ-HLL-Bot"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Bot&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Shun4miShu"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miShu&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/TextInTeX"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=TextInTeX&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4"></a>
+  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&bg_color=03374c&border_color=5aedf4&text_color=e9789f&title_color=5aedf4&description_lines_count=3"></a>
 </p>
 
 ## Public GitHub Notes
