@@ -74,7 +74,7 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
 </details>
 
 ## Interests
-I love algorithms, listening to music, composing music, and reading upon cool math in my own free time on my own (Although I would be really happy to discuss with others too!).
+I love algorithms, listening to music, composing music, and reading cool math in my free time on my own (Although I would be really happy to discuss with others too!).
 
 <p align="right">
   <a href="mailto:shun4midx@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/></a>
