@@ -15,7 +15,7 @@ Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don'
 
 翔海 is pronounced as Shu (しゅう) in Japanese.
 
-## Languages (Not Programming Languages)
+## Languages
 English and Japanese are okay! I also am fluent in Mandarin (Traditional Chinese), Cantonese, French, and German, but I may not be as natural when writing in those languages. Feel free to use any of these languages to communicate with me :)
 
 ## Projects
