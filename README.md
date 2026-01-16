@@ -2,8 +2,8 @@
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=fb0aab&text_color=fb0aab&bg_color=110e45&border_color=fb0aab&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=fb0aab&text_color=fb0aab&bg_color=110e45&border_color=fb0aab&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
 </p>
 
 ## Who is Shun?
