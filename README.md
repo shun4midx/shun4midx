@@ -15,12 +15,9 @@ Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don'
 
 翔海 is pronounced as Shu (しゅう) in Japanese.
 
-## Languages
-English and Japanese are what I typically use online! I also am fluent in Mandarin (Traditional Chinese), Cantonese, French, and German, but I may not be as natural when writing in those languages. However, feel free to use any of these languages I listed to communicate with me :)
-
 ## Projects
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. :)
- - My main work has been on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project, which modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
+ - My main work thus far has been on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project and an [Android keyboard](https://github.com/shun4midx/FQ-HLL-Keyboard) which uses this algorithm as autocorrection. This autocorrection algorithm modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
  - I'm now mainly working on my [Taipei MRT Scheduler](https://github.com/shun4midx/Taipei-MRT-Scheduler), which is inspired from me being an "MRT nerd" (捷運迷). It aims to be an offline (No Wi-Fi) version of the current Taipei MRT app, that has better approximation of route times to the nearest minute in real-time, by accomodating train waiting time, and also provides more variants of MRT routes rather than just the fastest or lowest interchange ones (e.g. not passing certain stations or lines), alongside more information to please my MRT nerd self. I plan to make it an Android app in the future, but am now working on the C++ code first.
  - I'm also working on [TextInTeX](https://github.com/shun4midx/TextInTeX), a mini project library that turns text-based LaTeX and natural notation into copy-pasteable natural looking mathematical text. I plan to create a Discord bot and web version for it too in the future.
  - I'm also working on a Music Theory Tool aimed for Musical Composers (Part of my Shun4MIDI project) as someone who used to [compose music in high school](https://youtu.be/fNU0zx5wI3Q)
@@ -36,7 +33,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
 </p>
 
 ## Public GitHub Notes
-Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes! (When it's available next year...)
+Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes! (When it's available near the end of Feb 2026...)
 
 ## Past Public GitHub Notes
 Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
@@ -73,6 +70,9 @@ Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a 
     <a href="https://github.com/shun4midx/Algebra-I"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebra-I&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
   </p>
 </details>
+
+## Languages
+English and Japanese are what I typically use online! I also am fluent in Mandarin (Traditional Chinese), Cantonese, French, and German, but I may not be as natural when writing in those languages. However, feel free to use any of these languages I listed to communicate with me :)
 
 ## Interests
 I love algorithms, listening to music, composing music, and reading cool math in my free time on my own (Although I would be really happy to discuss with others too!).
