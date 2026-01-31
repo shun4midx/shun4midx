@@ -29,8 +29,8 @@ As a habit, I mostly work on private repositories separate from the main reposit
 <p align="center">
   <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
   <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
-  <a href="https://github.com/shun4midx/dinitz-visualizer"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=dinitz-visualizer&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Taipei-MRT-Scheduler&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
+  <a href="https://github.com/shun4midx/dinitz-visualizer"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=dinitz-visualizer&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/TextInTeX"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=TextInTeX&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
   <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
 </p>
