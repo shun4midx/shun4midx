@@ -2,8 +2,8 @@
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=fb0aab&text_color=fb0aab&bg_color=110e45&border_color=fb0aab&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
-  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=fb0aab&text_color=fb0aab&bg_color=110e45&border_color=fb0aab&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=en&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&custom_title=Shun's%20Language%20Usage&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
+  <a href="https://github.com/shun4midx?tab=repositories"><img src="https://shun4midx.vercel.app/api/top-langs?username=shun4midx&show_icons=true&layout=compact&langs_count=10&locale=ja&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&custom_title=翔海が最もよく使う言語&exclude_repo=shun-github-readme-stats,FAI,CompMath,compmath-site&hide=jupyter%20notebook"/></a>
 </p>
 
 ## Who is Shun?
@@ -27,12 +27,12 @@ As a habit, I mostly work on private repositories separate from the main reposit
  - I'm also working on [a Discord bot for Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/)!
 
 <p align="center">
-  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab"></a>
-  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab&description_lines_count=3"></a>
-  <a href="https://github.com/shun4midx/dinitz-visualizer"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=dinitz-visualizer&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab&description_lines_count=3"></a>
-  <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Taipei-MRT-Scheduler&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab"></a>
-  <a href="https://github.com/shun4midx/TextInTeX"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=TextInTeX&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab"></a>
-  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=fb0aab&bg_color=110e45&text_color=fb0aab&border_color=fb0aab&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
+  <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/dinitz-visualizer"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=dinitz-visualizer&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Taipei-MRT-Scheduler&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
+  <a href="https://github.com/shun4midx/TextInTeX"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=TextInTeX&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
+  <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
 </p>
 
 ## Public GitHub Notes
