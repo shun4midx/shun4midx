@@ -33,7 +33,15 @@ As a habit, I mostly work on private repositories separate from the main reposit
 </p>
 
 ## Public GitHub Notes
-Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes! (When it's available near the end of Feb 2026...)
+Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes!
+
+### Computer Science Notes (TBD: May include if I feel like my notes are good this semester)
+
+### Math Notes
+<p align="center">
+  <a href="https://github.com/shun4midx/Algebraic-Number-Theory"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebraic-Number-Theory&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
+  <a href="https://github.com/shun4midx/Probability"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Probability&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
+</p>
 
 ## Past Public GitHub Notes
 Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
