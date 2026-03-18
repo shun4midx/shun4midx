@@ -9,7 +9,7 @@
 ## Who is Shun?
 I don't know either. Hm. Heard he likes C++ too much and always wears his black headphones though. Oh, and he is a junior Computer Science student.
 
-You may usually see me as @shun4midx online, I usually use "shun4mi" or "shun4" for most of my work as a sort of trademark.
+You may usually see me as @shun4midx online, I usually use "shun4mi" or "shun4" for a lot of my less formal work as a sort of trademark.
 
 Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don't call me "Shun for Midex"!
 
