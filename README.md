@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🌠 Hi, I'm Shun/翔海! 🌠 </b></h1>
+<h1 align="center"><b> 🌠 Hi, I'm Shun/修海! 🌠 </b></h1>
 
 <h2><b>Some random programming stats (I mainly use C++, LaTeX is just for notes and things of the sort, I don't use it for coding)</b></h2>
 <p align="center">
@@ -13,7 +13,9 @@ You may usually see me as @shun4midx online, I usually use "shun4mi" or "shun4" 
 
 Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don't call me "Shun for Midex"!
 
-翔海 is pronounced as Shu (しゅう) in Japanese.
+修海 is pronounced as Shu (しゅう) in Japanese.
+
+> I'm also formerly known as 翔海, and thus any work created before or during June of 2026 may contain that name.
 
 ## Projects
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. :)
