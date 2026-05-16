@@ -41,6 +41,7 @@ Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed 
 
 ### Math Notes
 <p align="center">
+  <a href="https://github.com/shun4midx/Algebraic-Number-Theory"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Algebraic-Number-Theory&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
   <a href="https://github.com/shun4midx/Probability"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Probability&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
 </p>
 
