@@ -38,7 +38,7 @@ As a habit, I mostly work on private repositories separate from the main reposit
 ## Public GitHub Notes
 Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes!
 
-### Computer Science Notes (TBD: May include if I feel like my notes are good this semester)
+### Computer Science Notes (N/A, Unless I turn my notes this summer into more a presentable form)
 
 ### Math Notes
 <p align="center">
