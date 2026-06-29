@@ -19,34 +19,46 @@ Shun4midx is canonically read as "Tsunami Index" or "Shunami Decks", please don'
 
 ## Projects
 As a habit, I mostly work on private repositories separate from the main repository until they seem to be near production. I'm working on a few projects at the moment, but they all don't feel ready to be published yet, so that's why I seem to be dormant and inactive. :)
- - My main work thus far has been on my [Frequency-Quantized HyperLogLog Autocorrect](https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect) project and an [Android keyboard](https://github.com/shun4midx/FQ-HLL-Keyboard) which uses this algorithm as autocorrection. This autocorrection algorithm modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)
- - I'm now mainly working on my [Taipei MRT Scheduler](https://github.com/shun4midx/Taipei-MRT-Scheduler), which is inspired from me being an "MRT nerd" (捷運迷). It aims to be an offline (No Wi-Fi) version of the current Taipei MRT app, that has real-time, minute-level ETA approximation, by explicitly accounting for train waiting time. It also provides more meaningful variants of MRT routes rather than just the fastest or lowest interchange ones, including tradeoffs that MRT nerds actually care about, such as avoiding or specifically including certain stations or lines, and even custom routing and their costs. I also plan to include information about train arrival music at stations. I’m currently building the core logic and other related functionalities in C++, while simultaneously turning it into an [Android app](https://github.com/shun4midx/Taipei-MRT-Scheduler-App).
- - I'm mainly also working on [Shun4miTeX](https://github.com/shun4midx/Shun4miTeX), which is Discord bot for rendering LaTeX and natural math notation, into formal TeX-like images as outputs, written in [D++ (A C++ library for Discord)](https://dpp.dev/)! It also includes a basic scientific calculator for convenience of calculation! I hope to be able to make discussing math on Discord be both accessible towards math enthusiasts, and also those who may not be as familiar with LaTeX but still want TeX-like outputs.
- - I'm also working on [TextInTeX](https://github.com/shun4midx/TextInTeX), a mini project library that turns text-based LaTeX and natural notation into copy-pasteable natural looking mathematical text. I plan to create a Discord bot and web version for it too in the future.
- - I'm also working on a Music Theory Tool aimed for Musical Composers (Part of my Shun4MIDI project) as someone who used to [compose music in high school](https://youtu.be/fNU0zx5wI3Q)
- - I'm also working on [a Discord bot for Shun4MIDI](https://github.com/shun4midx/Shun4MIDI-Bot) coded in [D++ (A C++ library for Discord)](https://dpp.dev/)!
+<details>
+  <summary><b>More Details on Current Projects</b></summary>
+  <ul>
+   <li>My main work thus far has been on my <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect">Frequency-Quantized HyperLogLog Autocorrect</a> project and an <a href="https://github.com/shun4midx/FQ-HLL-Keyboard">Android keyboard</a> which uses this algorithm as autocorrection. This autocorrection algorithm modifies the probabilistic data structure HyperLogLog to do non-traditional fuzzy autocorrection. (Credits to my Advanced Data Structures group members before I expanded our final project here too)</li>
+   <li>I'm now mainly working on my <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler">Taipei MRT Scheduler</a>, which is inspired from me being an "MRT nerd" (捷運迷). It aims to be an offline (No Wi-Fi) version of the current Taipei MRT app, that has real-time, minute-level ETA approximation, by explicitly accounting for train waiting time. It also provides more meaningful variants of MRT routes rather than just the fastest or lowest interchange ones, including tradeoffs that MRT nerds actually care about, such as avoiding or specifically including certain stations or lines, and even custom routing and their costs. I also plan to include information about train arrival music at stations. I’m currently building the core logic and other related functionalities in C++, while simultaneously turning it into an <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler-App">Android app</a></li>
+   <li>I'm mainly also working on <a href="https://github.com/shun4midx/Shun4miTeX">Shun4miTeX</a>, which is Discord bot for rendering LaTeX and natural math notation, into formal TeX-like images as outputs, written in <a href="https://dpp.dev/">D++ (A C++ library for Discord)</a>! It also includes a basic scientific calculator for convenience of calculation! I hope to be able to make discussing math on Discord be both accessible towards math enthusiasts, and also those who may not be as familiar with LaTeX but still want TeX-like outputs</li>
+   <li>I'm also working on <a href="https://github.com/shun4midx/TextInTeX">TextInTeX</a>, a mini project library that turns text-based LaTeX and natural notation into copy-pasteable natural looking mathematical text. I plan to create a Discord bot and web version for it too in the future</li>
+   <li>I'm also working on a Music Theory Tool aimed for Musical Composers (Part of my Shun4MIDI project) as someone who used to <a href="https://youtu.be/fNU0zx5wI3Q">compose music in high school</a></li>
+   <li>I'm also working on <a href="https://github.com/shun4midx/Shun4MIDI-Bot">a Discord bot for Shun4MIDI</a> coded in <a href="https://dpp.dev/">D++ (A C++ library for Discord)</a>!</li>
+  </ul>
+</details>
 
+### Some Repo Highlights
 <p align="center">
   <a href="https://github.com/shun4midx/FQ-HyperLogLog-Autocorrect"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HyperLogLog-Autocorrect&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
   <a href="https://github.com/shun4midx/FQ-HLL-Keyboard"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=FQ-HLL-Keyboard&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Taipei-MRT-Scheduler&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8"></a>
   <a href="https://github.com/shun4midx/Taipei-MRT-Scheduler-App"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Taipei-MRT-Scheduler-App&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/Shun4miTeX"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Shun4miTeX&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/dinitz-visualizer"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=dinitz-visualizer&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
+  <a href="https://github.com/shun4midx/LaTeX-Template"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=LaTeX-Template&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
   <a href="https://github.com/shun4midx/Pink-Purple-Blue-VSCode-Theme"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Pink-Purple-Blue-VSCode-Theme&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=3"></a>
 </p>
 
 ## Public GitHub Notes
-Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Spring 2026**, which are fully in English. Click on the repository that you find useful to access the notes!
+Here you can find my (mainly handwritten on GoodNotes for Math and mainly typed on LaTeX for Computer Science, although I likely will use both in any repository) public notes I offer during **Fall 2026**, which are fully in English. Click on the repository that you find useful to access the notes!
 
-### Computer Science Notes (N/A, Unless I turn my notes this summer into more a presentable form)
+### Computer Science Notes (TBD when the semester starts)
 
-### Math Notes
-<p align="center">
-  <a href="https://github.com/shun4midx/Probability"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Probability&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
-</p>
+### Math Notes (TBD when the semester starts)
 
 ## Past Public GitHub Notes
-Here are my public notes I offered during **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
+Here are my public notes I offered during **Spring 2026**, **Fall 2025**, **Spring 2025**, and a reupload of my Algebra notes from Fall 2024. The main content is fully in English, other than few occasional Japanese comments irrelevant to the material. My Spring 2025 notes were informal in nature. I did remove my Computer Networks and Geometry notes I offered in Fall 2025 in this archive, because I'm not proud of the quality, and don't want them in an online archive.
+
+<details>
+  <summary><b>Spring 2026 (Math Notes)</b></summary>
+  <p align="center">
+    <a href="https://github.com/shun4midx/Probability"><img src="https://shun4midx.vercel.app/api/pin/?username=shun4midx&repo=Probability&layout=compact&title_color=ff73e8&bg_color=110e45&text_color=94b1ff&border_color=ff73e8&description_lines_count=2"></a>
+  </p>
+</details>
 
 <details>
   <summary><b>Fall 2025 (Computer Science Notes)</b></summary>
