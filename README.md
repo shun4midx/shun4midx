@@ -94,10 +94,10 @@ Here are my public notes I offered during **Spring 2026**, **Fall 2025**, **Spri
 </details>
 
 ## Languages
-English and Japanese are what I typically use online! I also am fluent in Mandarin (Traditional Chinese), Cantonese, French, and German, but I may not be as natural when writing in those languages. However, feel free to use any of these languages I listed to communicate with me :)
+English and Japanese are what I typically use online! I also am fluent in Mandarin (Traditional Chinese), Cantonese, French, and German, but I may not be as natural when writing in those languages. I also speak some Dutch and Korean. However, feel free to use any of these languages I listed to communicate with me :)
 
 ## Interests
-I love algorithms, listening to music, composing music, and reading cool math in my free time on my own (Although I would be really happy to discuss with others too!).
+I love algorithms, Rubik's cubes, listening to music, composing music, and reading cool math in my free time on my own (Although I would be really happy to discuss with others too!).
 
 <p align="right">
   <a href="mailto:shun4midx@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/></a>
