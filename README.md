@@ -101,6 +101,5 @@ I love algorithms, Rubik's cubes, listening to music, composing music, and readi
 
 <p align="right">
   <a href="mailto:shun4midx@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="gmail" width="40" height="40"/></a>
-  <a href="https://github.com/shun4midx"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" alt="space" width="20"/></a>
   <a href="https://discordapp.com/users/1278670248517828650"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" alt="discord" width="40" height="40"/></a>
 </p>
